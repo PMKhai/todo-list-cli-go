@@ -32,6 +32,12 @@ To use the TodoList CLI application, follow these instructions:
    ```
    ./todolist
    ```
+  
+  - Development
+
+   ```
+   go run .
+   ```
 
 4. Use the provided commands to manage your tasks. Here are some examples:
 
