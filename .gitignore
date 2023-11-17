@@ -1,0 +1,19 @@
+# Compiled object files, executables and dependencies
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled static libraries
+*.a
+
+# Log files
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Go binary
+/main
+
