@@ -16,10 +16,10 @@ To install the TodoList CLI application, follow these steps:
 4. Run the following command to build the executable:
 
    ```
-   go build -o todolist
+   go build -o build/todolist
    ```
 
-5. Once the build is successful, the `todolist` executable will be created in the project directory.
+5. Once the build is successful, the `todolist` executable will be created in the build folder.
 
 ## Usage
 
@@ -30,7 +30,7 @@ To use the TodoList CLI application, follow these instructions:
 3. Run the following command to see the list of available commands:
 
    ```
-   ./todolist
+   ./build/todolist
    ```
   
   - Development
